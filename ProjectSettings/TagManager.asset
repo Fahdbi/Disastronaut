@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CantActivateTriggers
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Collision
+  - Water
+  - UI
+  - 
+  - Ground
+  - Boxes
+  - Ladders
+  - Player
+  - Rocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1711443487
+    locked: 0
+  - name: Ladders
+    uniqueID: 1795815305
+    locked: 0
+  - name: Interactables
+    uniqueID: 1248751865
+    locked: 0
+  - name: Player
+    uniqueID: 163505663
+    locked: 0
+  - name: Level
+    uniqueID: 1937520071
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1107058807
+    locked: 0
+  - name: Overlays
+    uniqueID: 89629107
+    locked: 0
